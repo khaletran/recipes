@@ -1,0 +1,4 @@
+Ingredient:
+	- Chicken
+	- Salt
+	- Gradular
